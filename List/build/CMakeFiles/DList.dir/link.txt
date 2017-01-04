@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libDList.so -o libDList.so CMakeFiles/DList.dir/src/DList.c.o 

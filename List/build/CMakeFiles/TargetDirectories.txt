@@ -1,0 +1,8 @@
+/home/bhaskar/DS/List/build/CMakeFiles/install.dir
+/home/bhaskar/DS/List/build/CMakeFiles/list_install_components.dir
+/home/bhaskar/DS/List/build/CMakeFiles/rebuild_cache.dir
+/home/bhaskar/DS/List/build/CMakeFiles/edit_cache.dir
+/home/bhaskar/DS/List/build/CMakeFiles/SList.dir
+/home/bhaskar/DS/List/build/CMakeFiles/DList.dir
+/home/bhaskar/DS/List/build/CMakeFiles/install/strip.dir
+/home/bhaskar/DS/List/build/CMakeFiles/install/local.dir

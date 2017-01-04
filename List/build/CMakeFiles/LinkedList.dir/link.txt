@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libLinkedList.so -o libLinkedList.so CMakeFiles/LinkedList.dir/src/SList.c.o CMakeFiles/LinkedList.dir/src/singleLList.c.o 

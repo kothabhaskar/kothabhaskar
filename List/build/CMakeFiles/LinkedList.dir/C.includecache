@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/singleLList.h
+
+/home/bhaskar/DS/List/src/SList.c
+singleLList.h
+/home/bhaskar/DS/List/src/singleLList.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/bhaskar/DS/List/src/singleLList.c
+stdio.h
+-
+stdlib.h
+-
+singleLList.h
+/home/bhaskar/DS/List/src/singleLList.h
+

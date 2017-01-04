@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/dlistTest.dir/dlistTest.c.o  -o dlistTest  -L/home/bhaskar/DS/List/build -rdynamic -lDList -Wl,-rpath,/home/bhaskar/DS/List/build 

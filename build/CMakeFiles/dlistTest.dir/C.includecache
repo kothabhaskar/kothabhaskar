@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../List/include/DoubleLinkedList.h
+
+/home/bhaskar/DS/dlistTest.c
+stdio.h
+-
+DoubleLinkedList.h
+/home/bhaskar/DS/DoubleLinkedList.h
+

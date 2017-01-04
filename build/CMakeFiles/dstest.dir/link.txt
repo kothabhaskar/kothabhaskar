@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/dstest.dir/dstest.c.o  -o dstest  -L/home/bhaskar/DS/List/build -rdynamic -lLinkedList -Wl,-rpath,/home/bhaskar/DS/List/build 
